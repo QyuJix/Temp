@@ -3,3 +3,7 @@ git clone <HTTPS FROM GIT REPO> - copies the repo from the remote Git to your lo
 git push - pushes current saved directory and files to the Remote repo
 
 git status - provides repo information - gives information on which files has changed between different commits.
+
+git add . - only when you write add the git follows your changes.
+
+order of commands: git add .  -> git commit -m "Add Message" -> git push
