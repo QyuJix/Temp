@@ -1,0 +1,5 @@
+git clone <HTTPS FROM GIT REPO> - copies the repo from the remote Git to your local machine.
+
+git push - pushes current saved directory and files to the Remote repo
+
+git status - provides repo information - gives information on which files has changed between different commits.
