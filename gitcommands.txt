@@ -7,3 +7,6 @@ git status - provides repo information - gives information on which files has ch
 git add . - only when you write add the git follows your changes.
 
 order of commands: git add .  -> git commit -m "Add Message" -> git push
+
+TEST
+TEST
